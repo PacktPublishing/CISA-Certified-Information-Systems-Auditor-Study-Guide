@@ -29,6 +29,10 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Errata
 
+* Page 25: In _Corrective controls_ section, the sentence "Examples of detective controls include the following:" must be read as "Examples of corrective controls include the following:"
+* Page 56: In _Types of audit and assessment_, the 6th answer is "Answer: D. Operational audit"
+* Page 76: In the _Possible answers_ column, the second row must be read as "Sufficient and appropriate audit evidence."
+
 ### Related products
 *  Cybersecurity – Attack and Defense Strategies - Second Edition [[Packt]](https://www.packtpub.com/product/cybersecurity-attack-and-defense-strategies-second-edition/9781838827793https://www.packtpub.com/product/microsoft-exam-md-100-windows-10-certification-guide/9781838822187?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/183882779X)
 
