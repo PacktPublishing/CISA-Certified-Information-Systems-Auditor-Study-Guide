@@ -29,9 +29,15 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Errata
 
+* Page 13: In _Possible answers_ column, the third row must be read as "To evaluate vulnerabilities and threats related to data center location"
 * Page 25: In _Corrective controls_ section, the sentence "Examples of detective controls include the following:" must be read as "Examples of corrective controls include the following:"
+* Page 39: In _Possible answers_ column, the 12th row must be read as "Policies are created on the basis of risk analysis" 
 * Page 56: In _Types of audit and assessment_, the correct 6th answer is "D. Operational audit"
 * Page 76: In the _Possible answers_ column, the second row must be read as "Sufficient and appropriate audit evidence." instead of "Sufficient and appropriate audit audience."
+* Page 329: The whole _Alternative routing_ section is incorrect and the correction is as follows:
+* Page 423: In _Gateway_ section, the sentence "A gateway has the capability to translate and connect different protocols and networks. It operates at layer 3 (application layer) of the OSI model." must be read as "A gateway has the capability to translate and connect different protocols and networks. It operates at layer 7 (application layer) of the OSI model."
+* Page 504: In _CISA questions_ column, the second row must be read as "Which type of risk is exposed due to a hidden file on webpage?"
+
 
 ### Related products
 *  Cybersecurity – Attack and Defense Strategies - Second Edition [[Packt]](https://www.packtpub.com/product/cybersecurity-attack-and-defense-strategies-second-edition/9781838827793https://www.packtpub.com/product/microsoft-exam-md-100-windows-10-certification-guide/9781838822187?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/183882779X)
