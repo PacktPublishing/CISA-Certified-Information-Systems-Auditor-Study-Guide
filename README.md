@@ -34,7 +34,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Page 39: In _Possible answers_ column, the 12th row must be read as "Policies are created on the basis of risk analysis" 
 * Page 56: In _Types of audit and assessment_, the correct 6th answer is "D. Operational audit"
 * Page 76: In the _Possible answers_ column, the second row must be read as "Sufficient and appropriate audit evidence." instead of "Sufficient and appropriate audit audience."
-* Page 329: The whole _Alternative routing_ section is incorrect and the correction is as follows:
+* Page 329: The whole _Alternative routing_ section is incorrect and the correction is as follows: <img src="https://github.com/PacktPublishing/CISA-Certified-Information-Systems-Auditor-Study-Guide/blob/main/errata1.PNG">
 * Page 423: In _Gateway_ section, the sentence "A gateway has the capability to translate and connect different protocols and networks. It operates at layer 3 (application layer) of the OSI model." must be read as "A gateway has the capability to translate and connect different protocols and networks. It operates at layer 7 (application layer) of the OSI model."
 * Page 504: In _CISA questions_ column, the second row must be read as "Which type of risk is exposed due to a hidden file on webpage?"
 
